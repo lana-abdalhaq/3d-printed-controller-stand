@@ -1,7 +1,7 @@
 # 3d-printed-controller-stand
 3D printed gaming controller stand designed in Fusion 360
 
-Switch • Xbox • PC Controllers
+  Xbox • PS5 Controllers
 
 
  **Project Overview**
