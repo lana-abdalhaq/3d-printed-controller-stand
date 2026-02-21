@@ -1,12 +1,12 @@
 # 3d-printed-controller-stand
 3D printed gaming controller stand designed in Fusion 360
 
-  Xbox • PS5 Controllers • PC controllers
+  Xbox Controllers • PS5 Controllers • PC controllers
 
 
  **Project Overview**
 
-This project is a 3D-printed controller stand designed to hold gaming controllers such as the Xbox controllers, and standard PS5 controllers, PC controllers.
+This project is a 3D-printed controller stand designed to hold gaming controllers such as the Xbox controllers,  standard PS5 controllers and PC controllers.
 
 I designed and modeled the stand using Autodesk Fusion 360 with a parametric workflow, then prepared it for printing using UltiMaker Cura 5.11.0.
 
