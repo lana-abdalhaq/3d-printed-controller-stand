@@ -97,8 +97,6 @@ Fusion 360 (.f3d) file
 
 STL file for printing
 
-STEP file
-
 Render images
 
 
