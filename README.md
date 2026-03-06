@@ -1,112 +1,136 @@
-# 3d-printed-controller-stand
-3D printed gaming controller stand designed in Fusion 360
+# 3D Printed Controller Stand
 
-  Xbox Controllers • PS5 Controllers • PC controllers
+A universal **3D printed gaming controller stand** designed to hold controllers such as **Xbox, PS5, and PC controllers**.
 
+The stand was designed using **Autodesk Fusion 360** and prepared for printing with **UltiMaker Cura 5.11.0**.
 
- **Project Overview**
+The goal of this project was to create a **simple, stable, and clean-looking stand** that keeps gaming controllers organized and easy to access.
 
-This project is a 3D-printed controller stand designed to hold gaming controllers such as the Xbox controllers,  standard PS5 controllers and PC controllers.
+---
 
-I designed and modeled the stand using Autodesk Fusion 360 with a parametric workflow, then prepared it for printing using UltiMaker Cura 5.11.0.
+## Project Overview
 
-The main goal was to create a simple, stable, and clean-looking stand that keeps controllers organized and ready to use.
+This project demonstrates the full workflow of creating a **3D printable product**, including:
 
+- 3D modeling
+- Parametric design
+- Print optimization
+- STL export
+- Slicing for 3D printing
 
-- **Why I Made This**
+The stand is designed to be **stable, minimal, and compatible with multiple controller types**.
 
-I wanted a practical way to:
+---
 
-Keep my desk organized
+## Supported Controllers
 
-Store controllers safely when not in use
+| Controller Type | Compatibility |
+|-----------------|--------------|
+| Xbox Controllers | Supported |
+| PS5 Controllers | Supported |
+| PC Controllers | Supported |
 
-Prevent scratches or accidental drops
+The design uses a **universal shape** that works with most modern controllers.
 
-Add a minimal touch to the gaming setup
+---
 
+## Design Goals
 
-- **Design Features**
+| Goal | Description |
+|-----|-------------|
+| Organization | Keep gaming controllers organized on the desk |
+| Protection | Prevent scratches or accidental drops |
+| Stability | Wide base to prevent tipping |
+| Minimal Design | Clean and simple appearance |
 
-Universal shape that fits multiple controller types
+---
 
-Wide base for better stability
+## Design Features
 
-Slight angled support for natural positioning
+- Universal controller support
+- Wide base for improved stability
+- Angled support for natural controller placement
+- Smooth rounded edges
+- Parametric dimensions for easy modification
 
-Smooth edges for a cleaner finish
+---
 
-Parametric dimensions that can be adjusted if needed
+## Design Approach
 
+During the modeling process, the focus was on:
 
-- **Design Approach**
+- Proper **weight balance**
+- Enough **contact surface** to prevent slipping
+- **Rounded edges** for safety and aesthetics
+- **Print-friendly geometry**
+- **Minimizing support structures**
 
-While modeling the stand, I focused on:
+---
 
-Making sure the weight is balanced
+## Software Used
 
-Creating enough contact area to prevent slipping
+| Software | Purpose |
+|--------|---------|
+| Autodesk Fusion 360 | 3D modeling and parametric design |
+| UltiMaker Cura 5.11.0 | Slicing and G-code generation |
 
-Rounding edges to avoid sharp corners
+---
 
-Optimizing the shape for easier 3D printing
+## Modeling Process
 
-Reducing the need for supports during printing
+1. Created the base sketch with defined dimensions  
+2. Designed the angled support structure  
+3. Extruded the main body  
+4. Applied fillets to smooth edges  
+5. Verified controller clearances  
+6. Exported the final model as an STL file  
 
-- 🛠 Software Used
+---
 
-Autodesk Fusion 360 – 3D modeling and rendering
+## 3D Printing
 
-UltiMaker Cura 5.11.0 – Slicing and G-code generation
+The model was exported as an **STL file** and prepared for printing in Cura.
 
+### Printing Preparation
 
-- **Modeling Process**
+| Setting | Purpose |
+|-------|---------|
+| Layer Height | Adjusted for surface quality |
+| Infill | Configured for structural strength |
+| Supports | Added only if required |
+| G-code | Generated and previewed before printing |
 
-Sketched the base with defined dimensions
+The design was optimized to **print efficiently with minimal supports**.
 
-Designed the angled support structure
+---
 
-Extruded the main body
+## Files Included
 
-Applied fillets to smooth the edges
+| File Type | Description |
+|----------|-------------|
+| `.f3d` | Fusion 360 source file |
+| `.stl` | Ready-to-print 3D model |
+| Render Images | Visual previews of the design |
 
-Checked controller clearances
+---
 
-Exported the STL file for printing
+## Possible Improvements
 
-🖨 3D Printing
+Future improvements for the design may include:
 
-The final model was exported as an STL file and imported into Cura.
+- Cable management slot
+- Dual-controller stand version
+- Custom front surface design
+- TPU soft grip insert
+- Modular version for different controller sizes
 
-In Cura, I:
+---
 
-Adjusted layer height
+## Skills Demonstrated
 
-Set infill percentage
-
-Configured supports (if needed)
-
-Generated and previewed the G-code
-
-The design was made to print efficiently with minimal supports.
-
-
-- **Files Included**
-
-Fusion 360 (.f3d) file
-
-STL file for printing
-
-Render images
-
-
-- **Possible Improvements**
-
-Adding a cable management slot
-
-Creating a dual-controller version
-
-Customizing the front surface
-
-Adding a soft TPU grip insert
-Exploring flexible TPU grip insert
+- 3D modeling
+- Parametric design
+- Product design
+- 3D printing workflow
+- Print optimization
+- CAD file preparation
